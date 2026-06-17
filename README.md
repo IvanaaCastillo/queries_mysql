@@ -1,4 +1,4 @@
-# Clientes y Pedidos - SQL SKILLNEST
+# Clientes y Pedidos - MySQL SKILLNEST
 
 ## Descripción
 
@@ -18,9 +18,8 @@ El objetivo principal es practicar el uso de:
 
 ## Tecnologías Utilizadas
 
-* MySQL
 * MySQL Workbench
-* SQL
+* Visual Studio Code (VSC)
 
 ---
 
